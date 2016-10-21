@@ -11,11 +11,8 @@
 	<description>PLG_SEARCH_CONTENTIMAGES_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="contentimages">contentimages.php</filename>
+		<folder>language</folder>
 	</files>
-	<languages>
-		<language tag="en-GB">en-GB.plg_search_contentimages.ini</language>
-		<language tag="en-GB">en-GB.plg_search_contentimages.sys.ini</language>
-	</languages>
 	<config>
 		<fields name="params">
 			<fieldset name="basic">
