@@ -28,8 +28,8 @@
 				<field
 					name="search_contentimages"
 					type="radio"
-					label="PLG_SEARCH_CONTENTIMAGES_FIELD_CONTENTIMAGES_LABEL"
-					description="PLG_SEARCH_CONTENTIMAGES_FIELD_CONTENTIMAGES_DESC"
+					label="PLG_SEARCH_CONTENTIMAGES_FIELD_CONTENT_LABEL"
+					description="PLG_SEARCH_CONTENTIMAGES_FIELD_CONTENT_DESC"
 					class="btn-group btn-group-yesno"
 					default="0"
 					>
